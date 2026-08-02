@@ -1,0 +1,6 @@
+{
+  "name": "Screenshot Data Extractor",
+  "description": "Upload screenshots to extract phone numbers, dates, times, links, and content into a clean table.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
